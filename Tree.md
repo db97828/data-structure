@@ -91,4 +91,6 @@ Tree
       블로그 참고: https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1
    
   ### * AVL Tree VS Red-Black Tree
-    : AVL Tree
+    : AVL Tree가 더 엄격한 Balanced를 유지하고 있기 때문에 AVL Tree가 Red Black Tree보다 빠른 Search를 제공
+AVL Tree가 더 엄격한 Balanced를 유지하고 있기 때문
+  ### * AVL Tree VS Red-Black Tree
