@@ -87,6 +87,8 @@ Tree
           1. 현재 insert된 노드(c)의 부모(p)와 그 형제(u)를 검정(Black)으로 하고 Grand Parent(내 부모의 부모)를 빨강(Red)로 한다.
           2. Grand Parent(내 부모의 부모)가 Root node가 아니었을 시 Double Red가 다시 발생 할 수 있다.
           
-   ### * AVL Tree
+  ### * AVL Tree
       블로그 참고: https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1
    
+  ### * AVL Tree VS Red-Black Tree
+    : A
