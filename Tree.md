@@ -88,4 +88,4 @@ Tree
           2. Grand Parent(내 부모의 부모)가 Root node가 아니었을 시 Double Red가 다시 발생 할 수 있다.
           
    ### * AVL Tree
-      [
+      [블로그 참고](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
