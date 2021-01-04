@@ -92,5 +92,11 @@ Tree
    
   ### * AVL Tree VS Red-Black Tree
     : AVL Tree가 더 엄격한 Balanced를 유지하고 있기 때문에 AVL Tree가 Red Black Tree보다 빠른 Search를 제공
-AVL Tree가 더 엄격한 Balanced를 유지하고 있기 때문
-  ### * AVL Tree VS Red-Black Tree
+    : Red-Black Tree가 AVL Tree보다 Balanced를 느슨하게 유지하므로 빠른 삽입, 삭제 제공
+    : Red-Black Tree가 색 저장위해 더 많은 Space Complexity필요
+    : Red-Black Tree는 대부분의 언어의 map, multimap, multiset에서 사용
+    : AVL Tree는 조회에 속도가 중요한 DB에 사용
+
+
+
+
